@@ -4,6 +4,7 @@ body {
   font-family: 'Teko', sans-serif;
   color: #e9ecef;
   text-shadow: -1px 2px black;
+  align-text: center;
 }
 
 /* HEADER STYLING */
